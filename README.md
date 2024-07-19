@@ -2,9 +2,6 @@
 
 ### Digital Stories is a MERN application for sharing user created memories
 
-## Deployed App
-The app is [deployed](https://digital-stories.onrender.com) on render.com
-
 # Setting up the project
 
 1. Clone the repo git clone `git clone https://github.com/abdullah-2022-skipq/digital-stories.git`
