@@ -5,9 +5,6 @@
 ## Deployed App
 The app is [deployed](https://digital-stories.onrender.com) on render.com
 
-## Demo
-A video demo for the app is available [here](https://drive.google.com/file/d/1c_Hjcbc5sg5yAgKE-pxTibf1-l84ixQo/view?usp=sharing)
-
 # Setting up the project
 
 1. Clone the repo git clone `git clone https://github.com/abdullah-2022-skipq/digital-stories.git`
